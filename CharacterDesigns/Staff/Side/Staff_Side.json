@@ -1,0 +1,440 @@
+{
+    "name": "Staff_Side",
+    "nodes": [
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "hair_back",
+            "node_path": "hair_back",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                43,
+                4
+            ],
+            "resource_path": "export\\Staff_Side\\hair_back.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -14
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "neck",
+            "node_path": "neck",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                88,
+                118
+            ],
+            "resource_path": "export\\Staff_Side\\neck.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -13
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "head",
+            "node_path": "head",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                68,
+                19
+            ],
+            "resource_path": "export\\Staff_Side\\head.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -12
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "ear",
+            "node_path": "ear",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                89,
+                88
+            ],
+            "resource_path": "export\\Staff_Side\\ear.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -11
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "leg_left",
+            "node_path": "leg_left",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                82,
+                414
+            ],
+            "resource_path": "export\\Staff_Side\\leg_left.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -10
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "leg_right",
+            "node_path": "leg_right",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                63,
+                419
+            ],
+            "resource_path": "export\\Staff_Side\\leg_right.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -9
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "skirt",
+            "node_path": "skirt",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                54,
+                386
+            ],
+            "resource_path": "export\\Staff_Side\\skirt.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -8
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "skirt",
+            "node_path": "skirt",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                -124,
+                -71
+            ],
+            "resource_path": "export\\Staff_Side\\skirt.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -7
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "eye",
+            "node_path": "eye",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                136,
+                76
+            ],
+            "resource_path": "export\\Staff_Side\\eye.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -6
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "glasses",
+            "node_path": "glasses",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                105,
+                97
+            ],
+            "resource_path": "export\\Staff_Side\\glasses.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -5
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "shirt",
+            "node_path": "shirt",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                60,
+                168
+            ],
+            "resource_path": "export\\Staff_Side\\shirt.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -4
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "apron",
+            "node_path": "apron",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                69,
+                181
+            ],
+            "resource_path": "export\\Staff_Side\\apron.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -3
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "collar",
+            "node_path": "collar",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                70,
+                157
+            ],
+            "resource_path": "export\\Staff_Side\\collar.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -2
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "arm_righ",
+            "node_path": "arm_righ",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                0,
+                180
+            ],
+            "resource_path": "export\\Staff_Side\\arm_righ.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -1
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "hair_front",
+            "node_path": "hair_front",
+            "offset": [
+                -97.0,
+                430.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                53,
+                0
+            ],
+            "resource_path": "export\\Staff_Side\\hair_front.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": 0
+        }
+    ]
+}
